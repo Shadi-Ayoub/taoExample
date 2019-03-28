@@ -51,7 +51,7 @@ class TaoExample extends \tao_actions_CommonModule {
     }
     
     public function helloFromTemplate() {
-        $this->setData('author', 'Shadi Ayoub');
+        $this->setData('name', 'tao');
         $this->setView('Greeter/myName.tpl');
     }
 }

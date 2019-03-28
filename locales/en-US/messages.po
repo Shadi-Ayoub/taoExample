@@ -24,3 +24,7 @@ msgstr ""
 msgid "Template"
 msgstr ""
 
+#, tao-public
+msgid "Hello_from"
+msgstr ""
+
