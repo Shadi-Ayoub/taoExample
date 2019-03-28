@@ -24,7 +24,7 @@
  */
 return array(
     'name' => 'taoExample',
-    'label' => 'My First TAO Extension',
+    'label' => 'Administration',
     'description' => '',
     'license' => 'GPL-2.0',
     'version' => '1.0',

@@ -17,7 +17,7 @@ msgid "Hello World"
 msgstr ""
 
 #, tao-public
-msgid "My First TAO Extension"
+msgid "Administration"
 msgstr ""
 
 #, tao-public

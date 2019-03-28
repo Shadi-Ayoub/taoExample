@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE structures SYSTEM "../doc/structures.dtd">
 <structures>
-	<structure id="taoExample_main" name="My First TAO Extension" level="15" group="main">
+	<structure id="taoExample_main" name="Administration" level="15" group="main">
 		<description />
 		<sections>
-			<section id="taoExample_main" name="My First TAO Extension" url="/taoExample/TaoExample/index" />
+			<section id="taoExample_main" name="Administration" url="/taoExample/TaoExample/index" />
 			<section id="taoExample_other" name="Template" url="/taoExample/TaoExample/templateExample" />
+                        <section id="taoExample_template" name="Hello from" url="/taoExample/Greeter/helloFromTemplate" />
 		</sections>
 	</structure>
 </structures>
