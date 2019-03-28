@@ -3,10 +3,11 @@
 <structures>
 	<structure id="taoExample_main" name="Administration" level="15" group="main">
 		<description />
+                <icon id="icon-folder"/>
 		<sections>
 			<section id="taoExample_main" name="Administration" url="/taoExample/TaoExample/index" />
-			<section id="taoExample_other" name="Template" url="/taoExample/TaoExample/templateExample" />
-                        <section id="taoExample_template" name="Hello_from" url="/taoExample/Greeter/helloFromTemplate" />
+                        <section id="taoExample_other" name="Template" url="/taoExample/TaoExample/templateExample" />
+                        <section id="taoExample_other2" name="Hello_from" url="/taoExample/Greeter/helloFromTemplate" />
 		</sections>
 	</structure>
 </structures>
